@@ -1,2 +1,2 @@
 # Resume
-An interactive Resmue
+An interactive Resume
